@@ -75,17 +75,5 @@ Classification model for predicting treatment response using Machine Learning.
 
 ---
 
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=gosettisowmya&theme=tokyonight&row=1&column=6)
-
----
-
-## 📊 Profile Views
-
-![](https://komarev.com/ghpvc/?username=gosettisowmya&label=Profile%20Views&color=0e75b6&style=flat)
-
----
-
 ### ⭐ Thanks for visiting my profile!
 *"Learning every day, building meaningful projects, and growing one commit at a time."* 🚀
